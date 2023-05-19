@@ -49,10 +49,18 @@ a {
 p {
     font-size: 16px;
 }
-
+.picture{
+    width: 350px;
+    margin: 10px auto;
+    display: block;
+    border: 22px solid #C3A6A0;
+    border-radius: 10%;
+    
+}
+/*
 .main-image {
-    height: 394px;
-    width: 26%;
+    height: 325px;
+    width: 350px;
     margin-bottom: 25px;
     margin-left:35%;
     background-image: url("../images/Tyler.jpg");
@@ -60,7 +68,8 @@ p {
     background-repeat: no-repeat;
     background-position: right 35% bottom 45%;
     border: 22px solid #C3A6A0;
-}
+    border
+} */
 
 .float-left {
     float: left;
