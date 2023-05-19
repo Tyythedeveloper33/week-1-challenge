@@ -65,4 +65,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Credits
-this was a starter code From George-Washington-University, I dont know who exactly is was but this was made off of their Starter code!
+this was a starter code From George-Washington-University, I dont know who exactly is was but this was made off of their Starter code from from support staff such Instructors, TAs, Tutors, or Learning Assistants.
