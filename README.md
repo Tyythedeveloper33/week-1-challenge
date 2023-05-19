@@ -17,7 +17,7 @@ this project is an example of a simple front-end design I built with VS-code des
 * create code in a structural way that elements follow a logical structure independent of styling and positioning
 * Added image elements that has accessible alt attributes
 * reated heading attributes that fall in sequential order
-* Created title elements that are concise, & descriptive 
+*  Created title elements that are concise, & descriptive 
 
 ## video of how it looks
 
