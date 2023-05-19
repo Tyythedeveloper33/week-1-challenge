@@ -55,21 +55,8 @@ p {
     display: block;
     border: 22px solid #C3A6A0;
     border-radius: 10%;
-    
 }
-/*
-.main-image {
-    height: 325px;
-    width: 350px;
-    margin-bottom: 25px;
-    margin-left:35%;
-    background-image: url("../images/Tyler.jpg");
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: right 35% bottom 45%;
-    border: 22px solid #C3A6A0;
-    border
-} */
+
 
 .float-left {
     float: left;
@@ -97,6 +84,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #C3A6A0;
     border: 8px solid #262220;
+    
 }
 
 
@@ -136,6 +124,7 @@ p {
     background-color: #C3A6A0;
     color: #262220;
     border: 12px solid #262220;
+   
 }
 
 
@@ -148,6 +137,7 @@ p {
     background-color: #C3A6A0;
     color: #262220;
     border: 12px solid #262220;
+    
 }
 
 .search-engine-optimization img {
